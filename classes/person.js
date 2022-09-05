@@ -27,7 +27,7 @@ class Person {
     people.forEach((person) => person.introduce());
   }
 }
-
+// I also don't understand why some tests some on some projects while some don't, It's making me use the answer guide more than I posed to be using it.
 /****************************************************************************/
 /******************* DO NOT EDIT CODE BELOW THIS LINE ***********************/
 
